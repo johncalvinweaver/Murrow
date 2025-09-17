@@ -1,0 +1,7 @@
+# Requirements for Murrow MVP
+
+flask
+requests
+pytest
+
+# Add other dependencies as needed.
