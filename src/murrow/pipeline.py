@@ -1,0 +1,4 @@
+# Pipeline
+
+class Pipeline:
+    pass

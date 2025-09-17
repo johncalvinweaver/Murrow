@@ -1,0 +1,4 @@
+# Schemas
+
+class Schema:
+    pass
